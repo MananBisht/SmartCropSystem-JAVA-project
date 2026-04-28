@@ -1,0 +1,17 @@
+early blight|Avoid overhead watering|Remove infected leaves|Use copper fungicide
+powdery mildew|Ensure air circulation|Prune affected parts|Apply sulfur fungicide
+leaf spot|Keep leaves dry|Remove infected leaves|Use fungicide spray
+rust|Avoid moisture|Remove infected leaves|Apply sulfur fungicide
+bacterial blight|Use clean tools|Remove infected parts|Use copper spray
+late blight|Avoid continuous planting of potatoes/tomatoes in the same field|Remove and destroy infected plants immediately|Use Copper-based fungicides
+leaf spot|Use resistant varieties and rotate crops|Remove infected leaves and debris|Mancozeb (0.25%) or Copper oxychloride (0.25%) sprays at 15-day intervals
+powdery mildew|Avoid overcrowding, and reduce humidity around plants|Remove infected leaves|Use Myclobutanil, Trifloxystrobin, or Azoxystrobin
+downy mildew|Ensure good drainage, avoid overhead irrigation|Remove infected plants promptly and improve airflow|Use Copper fungicides
+anthracnose|Use resistant varieties, avoid overhead watering, and prune for airflow|Remove diseased twigs/fruit|Use Propiconazole, Chlorothalonil, or Thiophanate-methyl
+black spot|Plant resistant varieties, ensure good air circulation, avoid overhead watering|Remove and destroy infected leaves|Use Chlorothalonil, Mancozeb, or Copper fungicides
+fusarium wilt|Use resistant cultivars, rotate crops, and sterilize soil if possible|Remove infected plants immediately|Use Carbendazim or Thiophanate-methyl
+verticillium wilt|Plant resistant/tolerant varieties, rotate crops, and avoid planting in infested soil|solarize soil to reduce inoculum|Use Triazole fungicides in controlled manner
+damping off|Use sterilized soil, avoid overwatering, and ensure good drainage|Remove affected seedlings and improve soil aeration|Use Thiram or Captan
+cedar-apple rust|remove nearby junipers|Prune and destroy galls on cedar/juniper hosts|Use Myclobutanil or Propiconazole during apple bloom
+cedar-hawthorn rust|Resistant hawthorn varieties|Prune infected twigs and leaves|Use Myclobutanil, Propiconazole, or Mancozeb
+pierce's disease|Remove nearby host plants (alfalfa, oleander, citrus) that harbor sharpshooters|Once vines are infected, they cannot be cured; severely diseased vines are usually removed to prevent spread|Use insecticides : Imidacloprid or Pyrethroids.
