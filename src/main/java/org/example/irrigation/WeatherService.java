@@ -9,7 +9,7 @@ public class WeatherService {
 
         try {
 
-            String apiKey = "71f45171e0a412b7cf17ac11665942e3";
+            String apiKey = "xxxxxxxxxxxxxxxxxxxxxxx";
 
             String link = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey + "&units=metric";
 
